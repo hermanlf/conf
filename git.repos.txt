@@ -1,0 +1,12 @@
+/* Sysadmin VIM */
+git clone http://github.com/hermanlf/savim.git ~/.vim
+
+/* Various configuration and text files  */
+git clone http://github.com/hermanlf/conf.git ~/conf
+
+/* BASH-IT - Disable virtualenv plugin during install */
+git clone http://github.com/revans/bash-it.git ~/.bash_it
+~/.bash_it/install.sh
+
+/* RBENV */
+git clone git://github.com/sstephenson/rbenv.git ~/.rbenv
